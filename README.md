@@ -1,1 +1,1 @@
-#####welcome to the world of technologies####
+welcome to the world of technologies
